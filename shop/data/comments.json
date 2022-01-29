@@ -1,5 +1,51 @@
 {
-    "comments":{
-        
-    }
+    "comments": [
+        {
+            "id": 1,
+            "productId": 1,
+            "description": "some text here",
+            "date": "17:00 22.03.2021"
+        },
+        {
+            "id": 2,
+            "productId": 1,
+            "description": "some text here",
+            "date": "11:30 16.07.2021"
+        },
+        {
+            "id": 4,
+            "productId": 2,
+            "description": "some text here",
+            "date": "14:30 13.08.2021"
+        },
+        {
+            "id": 5,
+            "productId": 2,
+            "description": "some text here",
+            "date": "19:40 03.03.2021"
+        },
+        {
+            "id": 6,
+            "productId": 3,
+            "description": "some text here",
+            "date": "22:00 22.22.2021"
+        },
+        {
+            "id": 7,
+            "productId": 3,
+            "description": "some text here",
+            "date": "11:35 07.11.2021"
+        },
+        {
+            "id": 8,
+            "productId": 4,
+            "description": "some text here",
+            "date": "9:00 04.04.2021"
+        },{
+            "id": 9,
+            "productId": 4,
+            "description": "some text here",
+            "date": "13:15 03.08.2021"
+        }
+    ]
 }
