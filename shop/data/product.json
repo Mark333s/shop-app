@@ -1,0 +1,64 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "imageUrl": "some url here",
+            "name": "Iphone 11",
+            "count": 4,
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "weight": "400g",
+            "comments": [
+                "CommentModel",
+                "CommentModel"
+            ]
+        },
+        {
+            "id": 2,
+            "imageUrl": "some url here",
+            "name": "Iphone 7",
+            "count": 7,
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "weight": "200g",
+            "comments": [
+                "CommentModel",
+                "CommentModel"
+            ]
+        },
+        {
+            "id": 3,
+            "imageUrl": "some url here",
+            "name": "Iphone 8",
+            "count": 3,
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "weight": "250g",
+            "comments": [
+                "CommentModel",
+                "CommentModel"
+            ]
+        },
+        {
+            "id": 4,
+            "imageUrl": "some url here",
+            "name": "Iphone 13",
+            "count": 6,
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "weight": "420g",
+            "comments": [
+                "CommentModel",
+                "CommentModel"
+            ]
+        }
+    ]
+}
